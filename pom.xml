@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.wltea.ik-analyzer</groupId>
+  <groupId>com.mmia.ik-analyzer</groupId>
   <artifactId>ik-analyzer-solr5</artifactId>
-  <version>5.x</version>
+  <version>5.5</version>
   <packaging>jar</packaging>
 
   <name>ik-analyzer-solr5</name>
@@ -13,11 +13,11 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <lucene.version>5.1.0</lucene.version>
+    <lucene.version>5.5.0</lucene.version>
 
     <javac.src.version>1.8</javac.src.version>
     <javac.target.version>1.8</javac.target.version>
-    <maven.compiler.plugin.version>3.3</maven.compiler.plugin.version>
+    <maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
   </properties>
 
   <dependencies>
